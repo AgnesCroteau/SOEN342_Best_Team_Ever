@@ -27,3 +27,4 @@ Features of the platform
 |    Agnes Croteau            |   AgnesCroteau      |    agnes.croteau@gmail.com   |
 |     Jason Novio      |    Jason-817     |     jasonnovio@hotmail.ca      |   
 |       Bogdan Podariu   | Bogdanpoda    | podariuBogdan1@gmail.com         |
+|       Zi Hao Tan   | ZiHao-Tan    | zihaotan429@gmail.com         |
