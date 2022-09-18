@@ -28,3 +28,4 @@ Features of the platform
 |     Jason Novio      |    Jason-817     |     jasonnovio@hotmail.ca      |   
 |       Bogdan Podariu   | Bogdanpoda    | podariuBogdan1@gmail.com         |
 |       Zi Hao Tan   | ZiHao-Tan    | zihaotan429@gmail.com         |
+| Kenny Phan               | kennyphan100     | kennyphan100@gmail.com        |
