@@ -25,5 +25,5 @@ Features of the platform
 | Diana Alexandra Merlusca |    dianaoana1    |   dianamerlusca2001@gmail.com |
 | Matthew Beaulieu         | MatthewBeaulieu0 | matthew.beaulieu631@gmail.com |
 |    Agnes Croteau            |   AgnesCroteau      |    agnes.croteau@gmail.com   |
-|             |        |            |
+|     Jason Novio      |    Jason-817     |     jasonnovio@hotmail.ca      |   
 |          |     |          |
