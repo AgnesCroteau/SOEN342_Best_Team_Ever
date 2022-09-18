@@ -26,4 +26,4 @@ Features of the platform
 | Matthew Beaulieu         | MatthewBeaulieu0 | matthew.beaulieu631@gmail.com |
 |    Agnes Croteau            |   AgnesCroteau      |    agnes.croteau@gmail.com   |
 |     Jason Novio      |    Jason-817     |     jasonnovio@hotmail.ca      |   
-|          |     |          |
+|       Bogdan Podariu   | Bogdanpoda    | podariuBogdan1@gmail.com         |
