@@ -29,3 +29,4 @@ Features of the platform
 |       Bogdan Podariu   | Bogdanpoda    | podariuBogdan1@gmail.com         |
 |       Zi Hao Tan   | ZiHao-Tan    | zihaotan429@gmail.com         |
 | Kenny Phan               | kennyphan100     | kennyphan100@gmail.com        |
+| Cédric Michaud      |      cemichaud    |     michaud.cedric18@gmail.com
