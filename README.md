@@ -35,3 +35,5 @@ Mock-up : Figma https://www.figma.com/
 |       Zi Hao Tan   | ZiHao-Tan    | zihaotan429@gmail.com         |
 | Kenny Phan               | kennyphan100     | kennyphan100@gmail.com        |
 | Cédric Michaud      |      cemichaud    |     michaud.cedric18@gmail.com
+| Robayth Dhrubo               | Robayth-Dhrubo     | robaythshahrin@gmail.com        |
+
