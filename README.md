@@ -24,9 +24,6 @@ Mock-up : Figma https://www.figma.com/
 
 | Name                     |      GitHub id   |                         Email |
 | :----------------------- | :--------------: | ----------------------------: |
-|              |     |       |
-|             |    |              |
-|            |     |  |
 | Diana Alexandra Merlusca |    dianaoana1    |   dianamerlusca2001@gmail.com |
 | Matthew Beaulieu         | MatthewBeaulieu0 | matthew.beaulieu631@gmail.com |
 |    Agnes Croteau            |   AgnesCroteau      |    agnes.croteau@gmail.com   |
