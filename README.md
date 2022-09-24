@@ -16,15 +16,15 @@ The objectives of E-Academy are :
 
 ## Features
 The features of the platform are :
-# Students/parent (which are separated) <br/>
+### Students/parent (which are separated) <br/>
 - Students can rent textbooks on our website 
 - Archive section containing useful information (videos, notes) related to the students class; videos made by our tutors and teachers.
 - for the parents personal log-in account, they have a section with the notes left by tutors on their students progress
 feature where students can post on a website anytime during the week to be answered by one of the teachers related to the subject.
-# Tutors <br/>
+### Tutors <br/>
 - Tipping service for commissions. In addition to the regular pay, tutors can receive a tip from the parents or the student. 
 - Setting milestones for students (viewable by students and parents)
-# Administrators/managers <br/>
+### Administrators/managers <br/>
 - Subscription based system where tutors are paid by commission
 - Admin interface to view the number of registrations from students and tutors, status of faculty members (online, offline), status of sessions (milestones), courses and requests. 
 
