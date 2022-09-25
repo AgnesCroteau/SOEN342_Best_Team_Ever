@@ -29,14 +29,14 @@ feature where students can post on a website anytime during the week to be answe
 - Admin interface to view the number of registrations from students and tutors, status of faculty members (online, offline), status of sessions (milestones), courses and requests. 
 
 ## Additional Features implemented by E-Academy
-•Different tutoring levels: elementary, high school, college (some tutors work better with kids)
-•A tutor description page (about me, education, subjects, teaching/work experience)
-•A RateMyTutor page where students can leave reviews/comments about the tutors
-•A forum page where students can post questions to be answered by tutors
-•Tutoring in person
-•Homework help
-•Summer school
-•Speech therapy
+- Different tutoring levels: elementary, high school, college (some tutors work better with kids)
+- A tutor description page (about me, education, subjects, teaching/work experience)
+- A RateMyTutor page where students can leave reviews/comments about the tutors
+- A forum page where students can post questions to be answered by tutors
+- Tutoring in person
+- Homework help
+- Summer school
+- Speech therapy
 
 
 
