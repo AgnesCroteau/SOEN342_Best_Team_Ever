@@ -16,7 +16,7 @@ The objectives of E-Academy are :
 
 ## Features
 The features of the platform are :
-### Students/parents (which are separated): <br/>
+### Students/parents (separated): <br/>
 - Students can rent textbooks on our website 
 - Archive section containing useful information (videos, notes) related to the students class; videos made by our tutors and teachers.
 - for the parents personal log-in account, they have a section with the notes left by tutors on their students progress
