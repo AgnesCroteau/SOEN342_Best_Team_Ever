@@ -4,7 +4,7 @@ The best team to ever do it made of Software Engineering students of Concordia
 # SOEN342_Project
 
 ## Project Description
-Creating an E-learning platform named E-Academy. This platforms will be a hub for online tutoring it will help students or parents  find the tutors that are needed for their children's different classes. 
+Creating an E-learning platform named E-Academy. This platforms will be a hub for online tutoring. It will help students or parents  find the tutors needed for their children's different classes. 
 
 ## Objective
 
