@@ -16,28 +16,33 @@ The objectives of E-Academy are :
 
 ## Features
 The features of the platform are :
-### Students/parents (separated): <br/>
-- Students can rent textbooks on our website 
+### Students: <br/>
 - Archive section containing useful information (videos, notes) related to the students class; videos made by our tutors and teachers.
-- for the parents personal log-in account, they have a section with the notes left by tutors on their students progress
-feature where students can post on a website anytime during the week to be answered by one of the teachers related to the subject.
+- A program that allows students to get specialized help regarding important exams, such as ministerial examinations, SAT, or ACT exams.
+- A special program that allows language stimulation for children with language difficulties such as dysphasia or dyslexia
+### Parents : <br/>
+- A mail section where parents can communicate with their children’s tutors, and view the message sent by the tutors.
+- A place where parents can track their children’s progression in the courses
 ### Tutors: <br/>
-- Tipping service for commissions. In addition to the regular pay, tutors can receive a tip from the parents or the student. 
-- Setting milestones for students (viewable by students and parents)
+- Different types of tutoring options for the student. It can be Private (one-on-one) tutoring or group tutoring where the price for private tutoring will cost more. There are also in-person tutoring or remote (virtual) tutoring.
+- A feature for students to choose their education level (elementary, secondary, college, university). Given their education level, the system can pair them up with the appropriate tutors. Some tutors work better with kids than others.
 ### Administrators/managers: <br/>
-- Subscription based system where tutors are paid by commission
-- Admin interface to view the number of registrations from students and tutors, status of faculty members (online, offline), status of sessions (milestones), courses and requests. 
+-  Administrators will have the ability to authorize the creation of student accounts as well as the tutoring accounts. They can also provide temporary or permanent bans to users who violate our institution’s guidelines.
+- Administrators will have the ability to grant requisitions provided by the clients whether they are students, tutors or parents. 
 
 ## Additional Features implemented by E-Academy
-- Different tutoring levels: elementary, high school, college (some tutors work better with kids)
-- A tutor description page (about me, education, subjects, teaching/work experience)
+- Different Tutoring Languages
+- Tutor Biography Page
 - A RateMyTutor page where students can leave reviews/comments about the tutors
 - A forum page where students can post questions to be answered by tutors
 - Tutoring in person
+- Tipping Tutors
 - Homework help
 - Summer school
 - Speech therapy
-
+- Tutors Paid by Commission
+- Admin Interface. Admin interface to view the number of registrations from students and tutors, status of faculty members (online, offline), status of sessions (milestones), courses and requests. 
+- Milestones. A tutor can create and set milestones or goals that the students have to accomplish or have accomplished which can be seen by the students and parents.
 
 
 ## Tools and Techniques
