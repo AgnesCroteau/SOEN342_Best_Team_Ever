@@ -31,7 +31,6 @@ The features of the platform are :
 - Shared board access
 ### Parents : <br/>
 - A built-in mail section where parents can communicate with their children’s tutors, and view the message sent by the tutors.
-- A place where parents can track their children’s progression in the courses
 ### Tutors: <br/>
 - Different types of tutoring options for the student. It can be Private (one-on-one) tutoring or group tutoring where the price for private tutoring will cost more. There are also in-person tutoring or remote (virtual) tutoring.
 - A feature for students to choose their education level (elementary, secondary, college, university). Given their education level, the system can pair them up with the appropriate tutors. Some tutors work better with kids than others.
