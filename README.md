@@ -39,19 +39,6 @@ The features of the platform are :
 - Administrators will have the ability to grant requisitions provided by the clients whether they are students, tutors or parents.
 - The Administrator will be able to link the tutor to the student according to each party schedule and student topic
 
-## Additional Features implemented by E-Academy
-- Different Tutoring Languages
-- Tutor Biography Page
-- A RateMyTutor page where students can leave reviews/comments about the tutors
-- A forum page where students can post questions to be answered by tutors
-- Tutoring in person
-- Tipping Tutors
-- Homework help
-- Summer school
-- Speech therapy
-- Tutors Paid by Commission
-- Admin Interface. Admin interface to view the number of registrations from students and tutors, status of faculty members (online, offline), status of sessions (milestones), courses and requests. 
-- Milestones. A tutor can create and set milestones or goals that the students have to accomplish or have accomplished which can be seen by the students and parents.
 
 
 ## Tools and Techniques
