@@ -16,19 +16,29 @@ The objectives of E-Academy are :
 
 ## Features
 The features of the platform are :
+### Guests: <br/>
+- Fill and submit a form to request to become a student 
+- Fill and submit a form to request an interview to become a tutor.
+- Fill and submit a form to request being a parent in the system linked to a student account
+- Access general informations sections.
 ### Students: <br/>
 - Archive section containing useful information (videos, notes) related to the students class; videos made by our tutors and teachers.
-- A program that allows students to get specialized help regarding important exams, such as ministerial examinations, SAT, or ACT exams.
-- A special program that allows language stimulation for children with language difficulties such as dysphasia or dyslexia
+- Upload/download document or video from the archive section
+- Students will have access to a calendar where they can see their upcoming meetings.
+- Meetings with  tutors upon registration students will be able to select or request time slots for tutoring sessions.
+- A feature for students to choose their education level (elementary, secondary, college, university). Given their education level, the system can pair them up with the appropriate tutors. Some tutors work better with kids than others.
+- Different types of tutoring options for the student. It can be Private (one-on-one) tutoring or group tutoring where the price for private tutoring will cost more. There are also in-person tutoring or remote (virtual) tutoring.
+- Shared board access
 ### Parents : <br/>
-- A mail section where parents can communicate with their children’s tutors, and view the message sent by the tutors.
+- A built-in mail section where parents can communicate with their children’s tutors, and view the message sent by the tutors.
 - A place where parents can track their children’s progression in the courses
 ### Tutors: <br/>
 - Different types of tutoring options for the student. It can be Private (one-on-one) tutoring or group tutoring where the price for private tutoring will cost more. There are also in-person tutoring or remote (virtual) tutoring.
 - A feature for students to choose their education level (elementary, secondary, college, university). Given their education level, the system can pair them up with the appropriate tutors. Some tutors work better with kids than others.
 ### Administrators/managers: <br/>
 -  Administrators will have the ability to authorize the creation of student accounts as well as the tutoring accounts. They can also provide temporary or permanent bans to users who violate our institution’s guidelines.
-- Administrators will have the ability to grant requisitions provided by the clients whether they are students, tutors or parents. 
+- Administrators will have the ability to grant requisitions provided by the clients whether they are students, tutors or parents.
+- The Administrator will be able to link the tutor to the student according to each party schedule and student topic
 
 ## Additional Features implemented by E-Academy
 - Different Tutoring Languages
