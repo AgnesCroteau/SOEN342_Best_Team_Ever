@@ -6,6 +6,9 @@ The best team to ever do it made of Software Engineering students of Concordia
 ## Project Description
 Creating an E-learning platform named E-Academy. This platforms will be a hub for online tutoring. It will help students or parents  find the tutors needed for their children's different classes. 
 
+## Group Meeting Details:
+[Sprint 1 group meeting details ](https://github.com/AgnesCroteau/SOEN342_Best_Team_Ever/wiki/Sprint-1).
+
 ## Objective
 
 The objectives of E-Academy are :
