@@ -38,9 +38,9 @@ The features of the platform are :
 - Different types of tutoring options for the student. It can be Private (one-on-one) tutoring or group tutoring where the price for private tutoring will cost more. There are also in-person tutoring or remote (virtual) tutoring.
 - A feature for students to choose their education level (elementary, secondary, college, university). Given their education level, the system can pair them up with the appropriate tutors. Some tutors work better with kids than others.
 ### Administrators/managers: <br/>
--  Administrators will have the ability to authorize the creation of student accounts as well as the tutoring accounts. They can also provide temporary or permanent bans to users who violate our institution’s guidelines.
+-  Administrators will have the ability to authorize the creation of parent accounts as well as the tutoring accounts. They can also provide temporary or permanent bans to users who violate our institution’s guidelines.
 - Administrators will have the ability to grant requisitions provided by the clients whether they are students, tutors or parents.
-- The Administrator will be able to link the tutor to the student according to each party schedule and student topic
+- The Administrator will be able to link the tutor to the student according to each party's schedule and student topic
 
 
 
