@@ -8,6 +8,7 @@ Creating an E-learning platform named E-Academy. This platforms will be a hub fo
 
 ## Group Meeting Details:
 [Sprint 1 group meeting details ](https://github.com/AgnesCroteau/SOEN342_Best_Team_Ever/wiki/Sprint-1).
+[Sprint 2 group meeting details](https://github.com/AgnesCroteau/SOEN342_Best_Team_Ever/wiki/Sprint-2).
 
 ## Objective
 
